@@ -55,6 +55,6 @@ footer{
         padding: 10px 20px;
     }
     footer{
-        position: fixed;
+        position: absolute;
     }
 }
